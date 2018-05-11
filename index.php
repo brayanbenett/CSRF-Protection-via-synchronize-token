@@ -38,7 +38,7 @@
         <button type="submit" name="submit" class="btn btn-primary btn-block btn-large">Login.</button>
     </form>
 
-    <p style="text-align:center;color: #95afc0">For more Info: <a href="https://github.com/kishanthbelic/SSS-Assignment_1">Brayan Benett</a></p>
+    <p style="text-align:center;color: #95afc0">For more Info: <a href="https://github.com/brayanbenett/CSRF-Protection-via-synchronize-token">Brayan Benett</a></p>
 </div>
 
 
