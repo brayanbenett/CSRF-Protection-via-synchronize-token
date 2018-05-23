@@ -4,4 +4,5 @@
         <p>Cross Site Request Forgery Protection - Synchronizer Token</p>
     <hr>
     
- <h1 style="font-size: 35px;">Username : administrator </br> Password : admin123</h1>
+ <h1 style="font-size: 35px;">Username : admin </br> Password : admin</h1>
+ <h1 style="font-size: 35px;">For More Info:<a href="https://lonewolf28.wordpress.com/2018/05/15/cross-site-request-forgerycsrf-protection-via-synchronize-token/">Lone Wolf </a></h1>

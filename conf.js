@@ -3,7 +3,7 @@
 var csrf_token;
 
 
-function loadDOC(method,url,htmlTag)
+function csrfTokenCapture(method,url,htmlTag)
 {
     var xhttp = new XMLHttpRequest(); 
     xhttp.onreadystatechange = function() 
